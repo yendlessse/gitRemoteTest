@@ -5,3 +5,4 @@
 * 안녕
 * 하세요
 * feature/cart 가 첫 번째 파일을 수정함
+* feature/mypage가 첫 번째 파일을 수정함
